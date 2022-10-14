@@ -31,7 +31,6 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
 ---
 # 📝 Tutorial
 
-1. [Download zip file](https://github.com/SniperNFTbot/Opensea-minting-bot/archive/refs/heads/main.zip)
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
 3. Open CMD and install modules  `pip install selenium requests webdriver-manager`
 4. Setup config
